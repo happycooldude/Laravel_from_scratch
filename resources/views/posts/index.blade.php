@@ -21,4 +21,5 @@
 
 
     </main>
+    {{ $posts->links() }}
 @endsection
